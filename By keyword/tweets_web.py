@@ -4,8 +4,8 @@
 import urllib2, json, base64, requests
 
 # User credentials here. To be kept secret.
-api_key = 'jettPzQmkvioDiHlwMMkiCe3V'
-access_secret = 'bvrxhshi5steYPm4A2LH43Z9BLDoIdwapvC6n7lAHwHSusn5Hj'
+api_key = ''
+access_secret = ''
 
 base_url = 'https://api.twitter.com/'
 auth_url = '{}oauth2/token'.format(base_url)
