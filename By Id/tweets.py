@@ -4,8 +4,8 @@
 import base64, requests
 
 # defining user credentials.
-api_key = 'jettPzQmkvioDiHlwMMkiCe3V'
-access_secret = 'bvrxhshi5steYPm4A2LH43Z9BLDoIdwapvC6n7lAHwHSusn5Hj'
+api_key = ''
+access_secret = ''
 
 # whatever is inside .format(), it is placed in {}.
 base_url = 'https://api.twitter.com/'
